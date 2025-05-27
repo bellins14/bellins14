@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bellins14&theme=algolia&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true)
 
 ---
 
