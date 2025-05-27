@@ -31,7 +31,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true" />
 </picture>
 
 <picture>
