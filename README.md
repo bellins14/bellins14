@@ -31,7 +31,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true" />
 </picture>
 
 <picture>
@@ -43,7 +43,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&count_private=true&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&count_private=true&card_width=320" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&count_private=true&card_width=320" />
 </picture>
 
 ---
