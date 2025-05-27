@@ -39,14 +39,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_mocha&layout=compact&langs_count=20&count_private=true&card_width=320&hide_progress=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_mocha&layout=compact&langs_count=20&count_private=true&hide_progress=true&card_width=320"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&count_private=true&card_width=320&hide_progress=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&count_private=true&hide_progress=true&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&count_private=true&card_width=320&hide_progress=true" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&count_private=true&hide_progress=true&card_width=320" />
 </picture>
 
 ---
