@@ -22,10 +22,6 @@
 
 ### 📊 GitHub Stats
 
-
-
-
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_mocha&show_icons=true&count_private=true"
