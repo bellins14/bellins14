@@ -43,7 +43,7 @@ A passionate **Computer Engineering student** at *Università degli Studi di Pad
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bellins14&theme=algolia&show_icons=true&count_private=true&include_all_commits=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellins14&theme=algolia&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellins14&theme=algolia&hide_progress=true)
 
 
 ---
