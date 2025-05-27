@@ -23,14 +23,7 @@
 ### 📊 GitHub Stats
 
 
-<a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&card_width=320&count_private=true#gh-light-mode-only" />
-</a>
 
-
-<a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_mocha&layout=compact&langs_count=20&card_width=320&count_private=true#gh-dark-mode-only" />
-</a>
 
 
 <picture>
