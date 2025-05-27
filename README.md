@@ -22,16 +22,12 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true#gh-light-mode-only" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&card_width=320&count_private=true#gh-light-mode-only" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_mocha&show_icons=true&count_private=true#gh-light-mode-only" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_mocha&layout=compact&langs_count=20&card_width=320&count_private=true#gh-dark-mode-only" />
 </a>
@@ -46,7 +42,19 @@
     srcset="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_mocha&layout=compact&langs_count=20&card_width=320&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&card_width=320&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&card_width=320&count_private=true" />
 </picture>
 
 ---
