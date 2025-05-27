@@ -22,8 +22,8 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats light](https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true#gh-light-mode-only)
-![GitHub stats dark](https://github-readme-stats.vercel.app/api?username=bellins14&theme=algolia&show_icons=true&count_private=true#gh-dark-mode-only)
+[![GitHub stats light](https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true#gh-light-mode-only)](https://github.com/bellns14/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats dark](https://github-readme-stats.vercel.app/api?username=bellins14&theme=algolia&show_icons=true&count_private=true#gh-dark-mode-only)](https://github.com/bellins14/github-readme-stats#gh-dark-mode-only)
 
 ---
 
