@@ -29,7 +29,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true#gh-light-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_mocha&layout=compact&langs_count=20&card_width=320&count_private=true#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&layout=compact&langs_count=20&card_width=320&count_private=true#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
