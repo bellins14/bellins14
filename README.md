@@ -24,7 +24,6 @@ A passionate **Computer Engineering student** at *Università degli Studi di Pad
 **Tech & Libraries I’m using:**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC72E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
@@ -44,6 +43,8 @@ A passionate **Computer Engineering student** at *Università degli Studi di Pad
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bellins14&theme=algolia&show_icons=true&count_private=true&include_all_commits=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellins14&theme=algolia&layout=compact)
+
 
 ---
 
