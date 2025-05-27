@@ -3,8 +3,8 @@
 🎓 Computer Engineering student at *Università di Padova*  
 🧠 Contributor @ **J3C 2025** – research on physiological signal analysis and prediction  
 🤖 Exploring **AI & Generative AI** for research and software productivity  
-📱 Built an **Android app** with Jetpack Compose for a course project  
-🎮 Developed a **Klotski solver** in Java & JavaFX for algorithm design 
+📱 Developed an **Android app** using Jetpack Compose as part of the *Embedded Systems Programming* course  
+🎮 Created a **Klotski solver** in Java & JavaFX for the *Software Engineering* course 
 
 ---
 
