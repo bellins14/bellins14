@@ -3,8 +3,8 @@
 🎓 Computer Engineering student at *Università di Padova*  
 🧠 Contributor @ **J3C 2025** – research on physiological signal analysis and prediction  
 🤖 Exploring **AI & Generative AI** for research and software productivity  
-📱 Developed an **Android app** using Jetpack Compose as part of the *Embedded Systems Programming* course  
-🎮 Created a **Klotski solver** in Java & JavaFX for the *Software Engineering* course 
+📱 Developed an [**Android app**](https://github.com/bellins14/HueHarvester) using Jetpack Compose as part of the *Embedded Systems Programming* course  
+🎮 Created a [**Klotski solver**](https://bellins14.github.io/klotski_gruppo2/) in Java & JavaFX for the *Software Engineering* course 
 
 ---
 
