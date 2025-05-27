@@ -1,7 +1,7 @@
 ### Hey there, I'm Tommaso 👋
 
 🎓 Computer Engineering student at *Università di Padova*  
-🧠 Contributor @ **J3C 2025** – research on physiological signal analysis and prediction  
+🧠 Contributor @ [**J3C 2025**](https://www.linkedin.com/posts/tommasobellinato_humanintheloop-datascience-controlsystems-activity-7313559094353641472-CAFE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4spNcBgeYzLyuujtY6eVUvwAKbidXCtqc) – research on physiological signal analysis and prediction  
 🤖 Exploring **AI & Generative AI** for research and software productivity  
 📱 Developed an [**Android app**](https://github.com/bellins14/HueHarvester) using Kotlin with Jetpack Compose as part of the *Embedded Systems Programming* course  
 🎮 Created a [**Klotski solver**](https://bellins14.github.io/klotski_gruppo2/) in Java & JavaFX for the *Software Engineering* course 
