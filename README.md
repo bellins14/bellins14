@@ -1,7 +1,7 @@
 ### Hey there, I'm Tommaso 👋
 
 🎓 Computer Engineering (BSc) · MSc AI & Robotics (ongoing) @ *Università di Padova*  
-🧠 Research collaborator on physiological signal analysis & prediction ([**J3C 2025**](https://www.linkedin.com/posts/tommasobellinato_humanintheloop-datascience-controlsystems-activity-7313559094353641472-CAFE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4spNcBgeYzLyuujtY6eVUvwAKbidXCtqc))
+🧠 Research collaborator on physiological signal analysis & prediction ([**J3C 2025**](https://www.linkedin.com/posts/tommasobellinato_humanintheloop-datascience-controlsystems-activity-7313559094353641472-CAFE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4spNcBgeYzLyuujtY6eVUvwAKbidXCtqc))  
 🤖 Exploring AI & Generative AI for research and software productivity
 📱 Developed an [**Android app**](https://github.com/bellins14/HueHarvester) using Kotlin with Jetpack Compose as part of the *Embedded Systems Programming* course  
 🎮 Created a [**Klotski solver**](https://bellins14.github.io/klotski_gruppo2/) in Java & JavaFX for the *Software Engineering* course 
