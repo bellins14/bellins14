@@ -56,7 +56,7 @@
 
 ### 📫 Contact
 
-**tommaso.bellinato@studenti.unipd.it**
+**tommaso.bellinato@gmail.com**
 
 
 
