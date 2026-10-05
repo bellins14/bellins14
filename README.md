@@ -6,28 +6,28 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/tommasobellinato/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/bellins14/HueHarvester"><img src="https://img.shields.io/badge/HueHarvester-3DDC84?style=flat-square&logo=android&logoColor=white" alt="HueHarvester" /></a>
-<a href="https://bellins14.github.io/klotski_gruppo2/"><img src="https://img.shields.io/badge/Klotski-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Klotski solver" /></a>
-<a href="mailto:tommaso.bellinato@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/tommasobellinato/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://github.com/bellins14/HueHarvester"><img src="https://img.shields.io/badge/HueHarvester-0D1117?style=flat-square&logo=android&logoColor=3DDC84" alt="HueHarvester" /></a>
+<a href="https://bellins14.github.io/klotski_gruppo2/"><img src="https://img.shields.io/badge/Klotski-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Klotski solver" /></a>
+<a href="mailto:tommaso.bellinato@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+<img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00599C" alt="C" />
+<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/MATLAB-0D1117?style=flat-square&logo=mathworks&logoColor=0076A8" alt="MATLAB" />
 <br/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
+<img src="https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=C51A4A" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
 <br/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D97757" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-0D1117?style=flat-square&logo=openai&logoColor=74AA9C" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-0D1117?style=flat-square&logo=githubcopilot&logoColor=FFFFFF" alt="GitHub Copilot" />
 
 <br/><br/>
 
