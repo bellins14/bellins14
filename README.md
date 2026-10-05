@@ -1,76 +1,40 @@
-### Hey there, I'm Tommaso 👋
+<div align="center">
 
-🎓 Computer Engineering (BSc) · MSc AI & Robotics (ongoing) @ *Università di Padova*  
-🧠 Research collaborator on physiological signal analysis & prediction @ [**J3C 2025**](https://www.linkedin.com/posts/tommasobellinato_humanintheloop-datascience-controlsystems-activity-7313559094353641472-CAFE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4spNcBgeYzLyuujtY6eVUvwAKbidXCtqc)  
-🤖 Exploring AI & Generative AI for research and software productivity  
-📱 Developed an [**Android app**](https://github.com/bellins14/HueHarvester) using Kotlin with Jetpack Compose as part of the *Embedded Systems Programming* course  
-🎮 Created a [**Klotski solver**](https://bellins14.github.io/klotski_gruppo2/) in Java & JavaFX for the *Software Engineering* course 
+# Tommaso Bellinato
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=520&lines=%3E+MSc+AI+%26+Robotics+%40+Universit%C3%A0+di+Padova;%3E+physiological+signal+analysis+%26+prediction;%3E+exploring+generative+AI+for+research" alt="MSc AI & Robotics, signal analysis, generative AI" />
 
-### 🛠️ Skills & Tools
+<br/>
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<a href="https://www.linkedin.com/in/tommasobellinato/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/bellins14/HueHarvester"><img src="https://img.shields.io/badge/HueHarvester-3DDC84?style=flat-square&logo=android&logoColor=white" alt="HueHarvester" /></a>
+<a href="https://bellins14.github.io/klotski_gruppo2/"><img src="https://img.shields.io/badge/Klotski-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Klotski solver" /></a>
+<a href="mailto:tommaso.bellinato@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
----
+<br/><br/>
 
-### 📊 GitHub Stats
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+<br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_mocha&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=bellins14&theme=catppuccin_latte&show_icons=true&count_private=true" />
-</picture>
+<br/><br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_mocha&langs_count=20&count_private=true&hide_progress=true&card_width=320"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&langs_count=20&count_private=true&hide_progress=true&card_width=320"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellins14&theme=catppuccin_latte&langs_count=20&count_private=true&hide_progress=true&card_width=320" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=bellins14&theme=catppuccin-mocha&hide_border=true" alt="Streak" />
 
----
+<br/><br/>
 
-### 📫 Contact
+<img src="https://raw.githubusercontent.com/bellins14/bellins14/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid" width="100%" />
 
-**tommaso.bellinato@gmail.com**
-
-
-
-<!--
-**bellins14/bellins14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
- ⚡ Fun fact: ...
->
+</div>
