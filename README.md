@@ -35,6 +35,6 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/bellins14/bellins14/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid" width="100%" />
+<img src="https://raw.githubusercontent.com/bellins14/bellins14/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid" width="100%" />
 
 </div>
